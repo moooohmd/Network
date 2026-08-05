@@ -25,13 +25,11 @@ The network's functionality was fully tested to ensure proper communication and 
 ### 1. Connectivity & DHCP Verification (`test 1`)
 * Used the `ipconfig` command on the end devices to verify that they successfully received IP configurations from the DHCP server.
 * Executed the `ping` command to test end-to-end connectivity between the PCs and the servers. All pings were successful with 0% packet loss.
-* *(Add your image here)*
-  > `![Ping and IPConfig Test](link-to-your-test1-image.png)`
+  > ![Ping and IPConfig Test](Test1.png)
 
 ### 2. DNS & Web Server Verification (`test 2`)
 * Opened the web browser on an end device and navigated to `www.moh.com`.
 * The DNS server successfully resolved the domain, and the Web Server correctly displayed the hosted webpage.
-* *(Add your image here)*
   > ![DNS and Web Test](Test2.png)
 
 ## 🛠️ Technologies Used

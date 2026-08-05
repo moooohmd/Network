@@ -8,7 +8,7 @@ The network topology includes the following components:
 * **Network Devices:** 1x Cisco Switch.
 * **Servers:** 3x Servers (DHCP, DNS, Web Server).
 * **End Devices:** 4x PCs.
-*   > ![Topologt](Topology.png)
+   > ![Topologt](Topology.png)
 
 ## ⚙️ Configuration Details
 All devices are connected to the same local network. The servers are configured with static IP addresses, while the PCs receive their network configuration dynamically.

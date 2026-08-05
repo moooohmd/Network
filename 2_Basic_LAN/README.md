@@ -32,7 +32,7 @@ The network's functionality was fully tested to ensure proper communication and 
 * Opened the web browser on an end device and navigated to `www.moh.com`.
 * The DNS server successfully resolved the domain, and the Web Server correctly displayed the hosted webpage.
 * *(Add your image here)*
-  > `![DNS and Web Test](Test%202.png)`
+  > `![DNS and Web Test](Test2.png)`
 
 ## 🛠️ Technologies Used
 * Cisco Packet Tracer

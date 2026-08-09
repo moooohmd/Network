@@ -8,7 +8,7 @@ The network is structured in a triangular point-to-point topology:
 * **Routers:** 3x Cisco Routers connected via Point-to-Point WAN links.
 * **Switches:** 3x Cisco Switches (One per site).
 * **End Devices:** Multiple laptops/PCs per site relying on dynamic IP allocation.
-> ![topology](topology.jpg)
+> ![topology](topology.png)
 
 ### 🖧 IP Addressing Schema
 The topology consists of three LAN subnets and three point-to-point WAN subnets:
